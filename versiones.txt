@@ -1,1 +1,2 @@
 Este es un archivo de practica para aprender GitHub.
+esta es otra linea de texto agregada para las tareas adicionales.
